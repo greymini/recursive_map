@@ -1,6 +1,6 @@
 # AI-Powered Knowledge Graph Extraction & Evaluation
 
-An AI-based pipeline that extracts semantic entities and relationships from unstructured documents (PDF/TXT) and generates a structured knowledge graph. Uses LangGraph for LLM orchestration, Google Gemini 2.5 Flash as the language model, NetworkX for graph generation, and Streamlit for document upload and visualization.
+An AI-based pipeline that extracts semantic entities and relationships from unstructured documents (PDF/TXT) and generates a structured knowledge graph. Uses LangGraph for LLM orchestration, Google Gemini 2.5 Flash as the language model, NetworkX for graph generation, and Streamlit for document upload and visualization. A video demo can be accessed here: https://url-shortener.me/30WF
 
 ## Features
 
