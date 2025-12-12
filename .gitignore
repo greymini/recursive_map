@@ -36,10 +36,11 @@ venv.bak/
 .DS_Store
 
 # Output files (generated data)
-data/outputs/*
-!data/outputs/.gitkeep
+# Allow output files to be tracked - uncomment below to ignore them
+# data/outputs/*
+# !data/outputs/.gitkeep
 
-# Preprocessing intermediate files
+# Preprocessing intermediate files (still ignore these)
 data/outputs/preprocessing/
 
 # API Keys and sensitive config (if any)
