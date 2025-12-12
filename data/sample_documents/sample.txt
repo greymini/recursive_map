@@ -1,0 +1,10 @@
+Apple Inc. is a technology company founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in 1976. The company is headquartered in Cupertino, California. Apple develops and manufactures consumer electronics, computer software, and online services.
+
+Steve Jobs served as the CEO of Apple until 2011. The company is known for developing innovative products like the iPhone, iPad, and Mac computers. Apple uses various technologies including iOS, macOS, and Swift programming language.
+
+Tim Cook is the current CEO of Apple Inc. He works at Apple and has been leading the company since 2011. Apple collaborates with various technology partners and suppliers around the world.
+
+The company's main products include the iPhone smartphone, iPad tablet, Mac computers, Apple Watch, and AirPods. Apple also develops software services like iCloud, Apple Music, and the App Store.
+
+Apple is located in Cupertino, California, which is in the United States. The company has offices and retail stores in many locations worldwide including New York, London, Tokyo, and Shanghai.
+
